@@ -1,0 +1,13 @@
+{
+  "name": "smart-contract-vesting-boilerplate",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
